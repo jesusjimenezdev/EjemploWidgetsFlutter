@@ -1,6 +1,6 @@
-# pruebas
+# Widgets de Flutter
 
-A new Flutter project.
+Un proyecto de Flutter que aglutina el funcionamiento de varios Widgets de flutter.
 
 ## Getting Started
 
